@@ -1,0 +1,42 @@
+body {
+    width: 1200px;
+    margin: 0 auto;
+    font-family: Arial;
+}
+
+nav {
+    background-color: rgb(69,69,69);
+    padding:5px;
+}
+
+nav a {
+    color: rgb(127,234,148);
+    text-decoration: none;
+    margin-top: 0;
+}
+article {
+    background-color: lightgray;
+    padding:20px;
+    margin: 5px;
+}
+
+article h1 {
+    font-size: 2em;
+    text-decoration: underline;
+    color: rgb(69,69,69);
+}
+
+section > header > h1 {
+    margin: 0;
+    font-size: 2em;
+
+}
+
+.hoofd {
+    background-image: url("../img/header.jpg");
+    height: 100px;
+    color: white;
+    margin: 0;
+    padding: 10px;
+}
+

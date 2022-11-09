@@ -1,0 +1,29 @@
+.vorigemaand , .volgendemaand {
+    background-color: gray;
+    color: darkgray;
+}
+
+table tr td:first-child, table tr td:last-child {
+    background-color: rgb(255, 220, 220);
+}
+
+.vrij {
+    background-color: rgb(250,120,120);
+}
+
+.maanden {
+    background-color: rgb(170,170,200);
+}
+
+.dagen {
+    color: rgb(200,190,240);
+    background-color: rgb(35,37,70);
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td, th {
+    border: 1px dotted;
+}
