@@ -1,0 +1,42 @@
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 5px;
+}
+
+.container .block{
+    padding:20px;
+    color: blue;
+    font-size: 4em;
+    font-weight:bold;
+    text-align:center;
+
+}
+
+.block.block1{
+    grid-column: span 3;
+    background-color: orange;
+ }
+.block.block2{
+    grid-column: span 3;
+    background-color: yellow;
+}
+.block.block3{
+    background-color: red;
+}
+.block.block4{
+    grid-column: span 2;
+    background-color: gray;
+}
+.block.block5{
+    display: none;
+}
+.block.block6{
+    display: none;
+}
+.block.block7{
+    display: none;
+}
+.block.block8{
+    display: none;
+}
