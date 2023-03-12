@@ -10,8 +10,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -50,10 +51,7 @@
       <recent name="C:\Users\32478\Documents\GitHub\Web-Development\labo9\opdracht1" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
-    <configuration name="exercise4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web-Development/labo11/exercise4.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
     <configuration name="exercise5.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web-Development/labo11/exercise5.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -63,16 +61,19 @@
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web-Development/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web-Development/laboJS4/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web-Development/laboJS1/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.exercise6.html" />
         <item itemvalue="JavaScript Debug.exercise5.html" />
-        <item itemvalue="JavaScript Debug.exercise4.html" />
       </list>
     </recent_temporary>
   </component>
@@ -90,7 +91,8 @@
       <workItem from="1670165618093" duration="138000" />
       <workItem from="1671004795510" duration="5464000" />
       <workItem from="1673899625366" duration="823000" />
-      <workItem from="1675852740778" duration="322000" />
+      <workItem from="1675852740778" duration="918000" />
+      <workItem from="1678657599427" duration="2968000" />
     </task>
     <servers />
   </component>
