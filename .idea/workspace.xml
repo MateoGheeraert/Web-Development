@@ -34,16 +34,19 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/32478/Desktop/School/2022-2023/Sem1/web dev/eindoefeningBeginSituatie&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/32478/Documents/GitHub/Web-Development/laboJS8/opdracht3&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\32478\Documents\GitHub\Web-Development\laboJS8\opdracht3" />
+      <recent name="C:\Users\32478\Documents\GitHub\Web-Development\laboJS8\opdracht2" />
+      <recent name="C:\Users\32478\Documents\GitHub\Web-Development\laboJS8" />
       <recent name="C:\Users\32478\Documents\GitHub\Web-Development\labo11" />
       <recent name="C:\Users\32478\Documents\GitHub\Web-Development\labo9" />
-      <recent name="C:\Users\32478\Documents\GitHub\Web-Development\labo8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\32478\Documents\GitHub\Web-Development\laboJS1" />
@@ -51,17 +54,17 @@
       <recent name="C:\Users\32478\Documents\GitHub\Web-Development\labo9\opdracht1" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
-    <configuration name="exercise5.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web-Development/labo11/exercise5.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="exercise6.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web-Development/labo11/exercise6.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.index.html (4)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web-Development/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web-Development/laboJS4/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web-Development/laboJS8/opdracht1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web-Development/laboJS8/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web-Development/laboJS1/index.html" useBuiltInWebServerPort="true">
@@ -69,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (4)" />
+        <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.exercise6.html" />
-        <item itemvalue="JavaScript Debug.exercise5.html" />
       </list>
     </recent_temporary>
   </component>
@@ -93,6 +96,8 @@
       <workItem from="1673899625366" duration="823000" />
       <workItem from="1675852740778" duration="918000" />
       <workItem from="1678657599427" duration="2968000" />
+      <workItem from="1681886990426" duration="9094000" />
+      <workItem from="1681929752713" duration="4079000" />
     </task>
     <servers />
   </component>
